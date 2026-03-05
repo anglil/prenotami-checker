@@ -1,0 +1,24 @@
+# Credentials and secrets
+.env
+
+# Virtual environment
+venv/
+
+# Logs and screenshots
+logs/
+
+# Runtime files
+.last_notified
+.runner.pid
+nohup.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
